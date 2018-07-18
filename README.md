@@ -1,5 +1,8 @@
 # sacaTemaBot
 Bot para conocer a la gente mejor a base de preguntas :)
+Las preguntas son un poco ummmm...
+Por cierto, dedico este bot a todo aquel que piense que se lo he dedicado <3
+
 
 ## Fuentes de las preguntas
 
