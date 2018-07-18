@@ -2,7 +2,7 @@ from telegram.ext import Updater, CommandHandler
 from config import TOKEN
 import random as rd
 
-TOTAL_QUESTIONS = 475
+TOTAL_QUESTIONS = 474
 QUESTIONS = 'questions.txt'
 
 def ask(bot, update):
